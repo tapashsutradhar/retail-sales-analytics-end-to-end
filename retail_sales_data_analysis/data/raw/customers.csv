@@ -1,0 +1,12 @@
+| CustomerID | FirstName | LastName | Email                                               | City        | Country |
+| ---------- | --------- | -------- | --------------------------------------------------- | ----------- | ------- |
+| 1          | John      | Smith    | [john.smith@email.com](mailto:john.smith@email.com) | New York    | USA     |
+| 2          | Alice     | Johnson  | [alice.j@email.com](mailto:alice.j@email.com)       | Los Angeles | USA     |
+| 3          | Bob       | Brown    | [bob.brown@email.com](mailto:bob.brown@email.com)   | Chicago     | USA     |
+| 4          | Emma      | Davis    | [emma.davis@email.com](mailto:emma.davis@email.com) | Houston     | USA     |
+| 5          | Michael   | Wilson   | [michael.w@email.com](mailto:michael.w@email.com)   | Phoenix     | USA     |
+| 6          | Olivia    | Martinez | [olivia.m@email.com](mailto:olivia.m@email.com)     | Dallas      | USA     |
+| 7          | James     | Anderson | [james.a@email.com](mailto:james.a@email.com)       | Miami       | USA     |
+| 8          | Sophia    | Thomas   | [sophia.t@email.com](mailto:sophia.t@email.com)     | Seattle     | USA     |
+| 9          | William   | Taylor   | [william.t@email.com](mailto:william.t@email.com)   | Boston      | USA     |
+| 10         | Ava       | Moore    | [ava.m@email.com](mailto:ava.m@email.com)           | Denver      | USA     |

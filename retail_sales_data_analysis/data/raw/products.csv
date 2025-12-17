@@ -1,0 +1,12 @@
+| ProductID | ProductName  | Category    | Price  |
+| --------- | ------------ | ----------- | ------ |
+| 1         | T-Shirt      | Apparel     | 15.99  |
+| 2         | Jeans        | Apparel     | 39.99  |
+| 3         | Sneakers     | Footwear    | 59.99  |
+| 4         | Laptop       | Electronics | 999.99 |
+| 5         | Headphones   | Electronics | 79.99  |
+| 6         | Coffee Maker | Appliances  | 49.99  |
+| 7         | Blender      | Appliances  | 29.99  |
+| 8         | Notebook     | Stationery  | 2.99   |
+| 9         | Pen Set      | Stationery  | 5.99   |
+| 10        | Jacket       | Apparel     | 79.99  |
